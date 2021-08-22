@@ -1,0 +1,3 @@
+spring-cloud-config-server:
+  maximun:30
+  minimum:300
